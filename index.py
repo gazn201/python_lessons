@@ -1,5 +1,5 @@
 zhuravliki = input()
-rebiata = (int(zhuravliki)/6)
-Katya = (rebiata*4)
-Petya,Serozha = rebiata,rebiata
+Petya = (int(zhuravliki)/6)
+Katya = (Petya*4)
+Serozha = Petya
 print(int(Petya), int(Katya), int(Serozha))
