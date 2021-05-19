@@ -1,4 +1,4 @@
-zhuravliki = input()
+zhuravliki = input("Введите число: ")
 Petya = (int(zhuravliki)/6)
 Katya = (Petya*4)
 Serozha = Petya
